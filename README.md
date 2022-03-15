@@ -3,6 +3,9 @@ Nike, Inc. is an American multinational corporation that is engaged in the desig
 Nike.com is the website used by Nike to deliver innovative products, experiences and services to inspire athletes.
 We have tried to clone the website using HTML5, CSS3, and Javascript DOM. This was a collaborative project at MASAI school.
 
+##Deployed link
+https://nike-five.vercel.app/
+
 ## Pages Build
 1. Landing Page
 2. Product Page
